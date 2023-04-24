@@ -1,0 +1,15 @@
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\bin\Debug\net6.0\Ice_task2.exe
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\bin\Debug\net6.0\Ice_task2.deps.json
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\bin\Debug\net6.0\Ice_task2.runtimeconfig.json
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\bin\Debug\net6.0\Ice_task2.dll
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\bin\Debug\net6.0\Ice_task2.pdb
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.csproj.AssemblyReference.cache
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.AssemblyInfoInputs.cache
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.AssemblyInfo.cs
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.csproj.CoreCompileInputs.cache
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.dll
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\refint\Ice_task2.dll
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.pdb
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\Ice_task2.genruntimeconfig.cache
+C:\Users\mpho magadani\source\repos\Ice_task2\Ice_task2\obj\Debug\net6.0\ref\Ice_task2.dll
