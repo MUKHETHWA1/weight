@@ -8,12 +8,12 @@
         double sum;
        
 
-
+        //USER TO ENTER NAME OR ENTER ZZZ TO EXIT THE PROGRAM
         Console.Write("Enter name <Or zzz to stop: ");
         name = Console.ReadLine();
        
 
-
+            //user to enter start weight and end weight
         while (name != "zzz") {
             Console.Write("Start weight for {0}: ", name);
             weight = Convert.ToDouble(Console.ReadLine());
